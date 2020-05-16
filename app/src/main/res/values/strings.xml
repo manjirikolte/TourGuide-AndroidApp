@@ -1,0 +1,221 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="title_one">Plan a Trip</string>
+    <string name="title_two">Top Attractions</string>
+    <string name="title_three">Explore Cities</string>
+    <string name="india">India</string>
+    <string name="titleState">Maharashtra</string>
+
+    <string-array name="placeName">
+        <item>Mumbai</item>
+        <item>Ajanta Caves</item>
+        <item>Mahabaleshwar</item>
+        <item>Panchghati</item>
+        <item>Rajmachi</item>
+        <item>Kashid</item>
+        <item>Alibag</item>
+        <item>Ganpatipule</item>
+    </string-array>
+    <string-array name="placeImage">
+        <item>https://www.holidify.com/images/bgImages/MUMBAI.jpg</item>
+        <item>https://cdn.pixabay.com/photo/2020/03/31/09/37/ajanta-caves-4986845_1280.jpg</item>
+        <item>https://cdn.pixabay.com/photo/2019/08/26/15/33/visapur-fort-4432061_1280.jpg</item>
+        <item>https://www.holidify.com/images/bgImages/PANCHGANI.jpg</item>
+        <item>https://www.holidify.com/images/bgImages/RAJMACHI.jpg</item>
+        <item>https://www.holidify.com/images/bgImages/KASHID.jpg</item>
+        <item>https://www.holidify.com/images/bgImages/ALIBAG.jpg</item>
+        <item>https://www.holidify.com/images/bgImages/GANAPATIPULE.jpg</item>
+    </string-array>
+    <string-array name="placeDescription">
+        <item>Labeled with multiple titles such as \'Financial capital of India\',
+            \'The Maximum City\', \'Land of Bollywood\', \'The dream City\' and much more, Mumbai
+            is Maharashtra\'s capital and India\'s most populous city which has
+            multiple faces making it all things to all people.</item>
+        <item>Ajanta and Ellora caves are considered to be one of the most important tourist
+            destinations in the world owing to the magnificent paintings
+            of Ajanta and well carved sculptures of Ellora.</item>
+        <item>A hill town in Western Ghats, apart from its strawberries, Mahabaleshwar is
+            also well known for its numerous rivers, magnificent cascades and majestic peaks.</item>
+        <item>Deriving its name from the five hills surrounding it, Panchgani is a popular hill station near
+            Mahabaleshwar famous for its various sunset/sunrise points and scenic valley view.</item>
+        <item>Rajmachi has two fortified peaks - Shrivardhan and Manaranjan forts,
+            located near two famous hills of Lonavala and Khandala.</item>
+        <item>A Beach town, popular for its white sand and blue seas situated in Konkan region of Maharashtra,
+            Kashid is the perfect destination for a quiet weekend getaway from Mumbai.</item>
+        <item>A popular weekend getaway destination for Mumbai folks, Alibaug is a coastal town in the Konkan
+            region well known for its sandy beaches, clean water and fresh, unpolluted air.</item>
+        <item>Beach town on the Konkan coastline, Ganpatipule has temples of Lord Ganesha as major
+            attractions apart from the beautiful virgin beaches.</item>
+    </string-array>
+
+    <string-array name="foodName">
+        <item>Pav Bhaji</item>
+        <item>Vada Pav</item>
+        <item>Puran Poli</item>
+        <item>Misal Pav</item>
+        <item>Aamras</item>
+        <item>Poha</item>
+        <item>Ragda Pattice</item>
+        <item>Modak</item>
+    </string-array>
+    <string-array name="foodImage">
+        <item>https://ratlamee.com/wp-content/uploads/2018/09/Cheese-Pav-Bhaji-1.jpg</item>
+        <item>https://img4.nbstatic.in/tr:w-500/56ab0c3d0b04512cde6af3ff.png</item>
+        <item>https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Bela-Dholakia/puran-poli-recipe-with-toor-dal-and-chana-dal.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/9/94/Misal_Pav_from_Maharashtra.JPG</item>
+        <item>https://www.cookwithkushi.com/wp-content/uploads/2016/06/IMG_0408_.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/5/57/Cooked_Poha.jpg</item>
+        <item>https://image.shutterstock.com/image-photo/ragda-pattice-mumbai-street-foodchat-600w-1073918144.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/2/22/Ukdiche_Modak.jpg</item>
+    </string-array>
+    <string-array name="foodDescription">
+        <item>Amchi Maharashtra food is incomplete without this dish which has come to be
+            synonymous to the state! Fresh and thick slices of bread, smothered in butter
+            served with a delicious mix of moderately spiced vegetables. This lip-smacking
+            dish has won the heart of every Indian!</item>
+        <item>Vada Pav can easily be called the Indian version of a burger! A delicious,
+            spicy, deep-fried patty made of potato is squeezed between a thick slice of bread,
+            similar to a burger bun. Between the vada (patty) and pav (bread) a spicy mix of spices
+            and salt is sprinkled and garnished with a fried, salted green chilli. Sounds perfect,
+            isn\'t it? It\'s an all-day snack and is extremely popular among Maharashtrians</item>
+        <item>This delectable food item is a sweet version of the loving parantha.
+            The stuffing is made from jaggery (gur), yellow gram (chana) dal, plain flour,
+            cardamom powder and ghee (clarified butter). It is a popular dish in festive
+            occasions and also can be eaten at any time of the day.
+            A tasty dessert does not need anyone\'s permission to be eaten!</item>
+        <item>Misal Pav is quintessentially from Pune and is one of the most popular
+            Maharashtrian breakfast, snack or even brunch. It is a street food popularly found
+            in Mumbai. It has a spicy and tangy lentil curry which is made with moth beans
+            and is served with Pav bread. At times, it is eaten with yoghurt to lessen the spice.
+            Although it is a breakfast food but Maharashtrians enjoy it at time of the day.</item>
+        <item>Summer season is all about mangoes and aamrus is one of the favourite mango servings
+            in Maharashtra. The aamras is made from the mango pulp and is thick in texture.
+            The pulp is extracted by hand and it takes not more than 30 minutes to prepare.</item>
+        <item>This chai-time snack which is made out of flattened rice is a favourite among
+            every Maharashtrian. A very versatile dish, poha can be prepared in numerous ways.
+            The most common variant is kanda poha which is made with onions</item>
+        <item>The much famed Ragda Patties or as the locals would name it Ragda ?pattice?
+            (a localised version on the English ?patties?) is a part of Maharashtra\'s
+            delicious street food that one should never leave out on. It is a yet another lip-smacking street
+            food in Mumbai which is prepared by using curried dried peas and patties.</item>
+        <item>Modak is one of the most famous sweet found in Maharashtra and is extensively
+            eaten during the Ganesh Chaturthi Festival all around the state. The sweet
+            filling on the inner part of a modak consists of freshly grated coconut and jaggery
+            while the outer shell is made out of rice flour and is very soft.</item>
+    </string-array>
+
+
+    <string-array name="hotelName">
+        <item>Taj Santacruz</item>
+        <item>Conrad Pune Koregaon Park by Hilton</item>
+        <item>Trident Bandra Kurla</item>
+        <item>The Taj Mahal Tower Mumbai</item>
+        <item>JW Marriott Mumbai Sahar Airport</item>
+        <item>The St. Regis Mumbai</item>
+        <item>JW Marriott Pune</item>
+        <item>Marriott Suites Pune</item>
+    </string-array>
+    <string-array name="hotelImage">
+        <item>https://q-cf.bstatic.com/images/hotel/max1280x900/576/57611845.jpg</item>
+        <item>https://r-cf.bstatic.com/images/hotel/max1280x900/646/64676763.jpg</item>
+        <item>https://live.staticflickr.com/7112/6857886644_f91d64e0dc_b.jpg</item>
+        <item>https://live.staticflickr.com/1808/42924629761_080c7898b4_b.jpg</item>
+        <item>https://q-cf.bstatic.com/images/hotel/max1280x900/249/249447463.jpg</item>
+        <item>https://r-cf.bstatic.com/images/hotel/max1280x900/178/178789843.jpg</item>
+        <item>https://q-cf.bstatic.com/images/hotel/max1280x900/248/248594195.jpg</item>
+        <item>https://r-cf.bstatic.com/images/hotel/max1280x900/197/197973600.jpg</item>
+    </string-array>
+    <string-array name="hotelDescription">
+        <item>Taj Santacruz is located in Santa Cruz at a 2-minute walk from the Chhatrapati
+            Shivaji Domestic Airport and 2.5 mi from International terminal. The property
+            is located 5 mi from the Andheri commercial hub, 5.6 mi from Bombay Exhibition Center
+            (Goregaon) and 3.1 mi from the financial hub of Bandra Kurla complex.</item>
+        <item>Featuring 6 dining options, an outdoor temperature controlled swimming pool and
+            24- hour fitness center, Conrad Pune - Luxury by Hilton offers accommodations in Pune.
+            Guests can enjoy a drink at the on-site bar.</item>
+        <item>The 5-star Trident Bandra Kurla provides an outdoor swimming pool and full spa
+            services. Concierge services and room service are available 24 hours.
+            On-site parking is free. Complimentary WiFi is available in all rooms.</item>
+        <item>Built in 1973, the iconic The Taj Mahal Tower Mumbai stands majestically across
+            from the Gateway of India, overlooking the Arabian Sea. The Tower stands in
+            harmonious contrast to The Taj Mahal Palace with its arched balconies and newly
+            refurbished rooms. Sprawling over 2.6 acres, this luxurious hotel features 10
+            restaurants and a variety of traditional Indian therapies at Jiva Spa.</item>
+        <item>Located 400 m from Chhatrapati Shivaji International Airport Mumbai and offering
+            an outdoor swimming pool, fitness center and a spa wellness center,
+            JW Marriott Mumbai Sahar is located in Andheri East.</item>
+        <item>With exquisitely styled and lavishly appointed accommodations, The St. Regis Mumbai
+            is located in city’s premier entertainment and commercial district of Lower Pareland is renowned for
+            its unique sense of refined luxury. Free WiFi is available.</item>
+        <item>Offering 5-star rooms overlooking the city, JW Marriott Pune features a spa,
+            pool with bar and a rooftop restaurant. Providing free parking, it has 8 dining options.
+            The property features a spa with
+            13 treatment rooms where the guests can head to for relaxation.</item>
+        <item>Marriott Suites Pune is an all-suite pet-friendly hotel located in the Koregaon
+            Park neighborhood. It is 3.4 mi from Pune International Airport, 3.2 mi from Phenix
+            Market City Mall and a 15 minute drive away from IT hubs such as EON IT Park,
+            Business Bay, Commerce Zone and Magarpatta Cyber city. It is also close to local
+            attractions like Osho Ashram that is 1.5 mi away while Aga Khan Palace is 2.1 mi
+            and Shaniwar Wada is 4.7 mi from the property</item>
+    </string-array>
+
+    <string-array name="eventName">
+        <item>Gudhi Padwa - The Harvest Festival</item>
+        <item>Ganesh Chathurthi</item>
+        <item>Krishna Janmashtami</item>
+        <item>Makar Sankranti</item>
+        <item>Bhau Beej</item>
+        <item>Ashadhi Ekadashi</item>
+        <item>Pola</item>
+        <item> Shivaji Jayanti</item>
+    </string-array>
+    <string-array name="eventImage">
+        <item>https://www.myindiandream.in/upload/Gudhi_Padwa_-_Its_time_for_the_festivities_to_begin_1490778647.jpg</item>
+        <item>https://storage.needpix.com/rsynced_images/lord-ganesha-3698062_1280.jpg</item>
+        <item>https://previews.123rf.com/images/adsniks/adsniks1712/adsniks171200132/103781771-photograph-of-dahi-handi-on-gokulashtami-festival-in-india-which-is-lord-shri-krishna-s-birth-day.jpg</item>
+        <item>https://st1.latestly.com/wp-content/uploads/2020/01/International-Kite-Festival-beautiful-pics.jpg</item>
+        <item>https://timesofindia.indiatimes.com/thumb/msid-71795710,imgsize-356575,width-400,resizemode-4/71795710.jpg</item>
+        <item>https://previews.agefotostock.com/previewimage/medibigoff/9305a6531a9cc66986feb2c520b2d374/dpa-sgg-150379.jpg</item>
+        <item>https://www.holidify.com/blog/wp-content/uploads/2016/02/Pola.jpg</item>
+        <item>https://static.toiimg.com/photo/62996111.cms</item>
+    </string-array>
+    <string-array name="eventDescription">
+        <item>Gudhi Padwa signifies the beginning of a prosperous new year and Hindus consider
+            it to be one of the most auspicious days. It falls on the first day of the Lunar
+            calendar, marking the new year. It is celebrated with great pomp and show all over
+            the state. Households are decorated with garlands and rangolis, and a gudhi
+            is put up outside the home to welcome prosperity and good health in to the family</item>
+        <item>YLord Ganesha, the deity of wisdom, is the most loved in Maharashtra and
+            Ganesh Chaturthi is celebrated with the most grandeur. In August, preparations
+            for the auspicious day when Lord Ganesh was born – begin with great enthusiasm.
+            It is an 11-day festival, beginning with the installation of beautifully sculpted
+            Ganesh idols in homes and large pandals, colorfully decorated, depicting religious and cultural themes.</item>
+        <item>Gokul Ashtami or Janmashtami celebrates the birth of Lord Krishna. Devotees fast till midnight
+            on the eve of the birth of Lord Krishna. Krishna-janma is celebrated at midnight at
+            temples and in homes amidst bhajans (devotional songs), marking the birth of Lord Krishna.</item>
+        <item>Also known as Uttarayan or Pongal in other parts of the country, Makar Sankranti is
+            the celebration of the winter solstice. It is the celebration of the advent of spring, the day when
+            the sun leaves the southern hemisphere and begins its journey in the northern hemisphere.</item>
+        <item>Just as the country celebrates sibling love on Raksha Bandhan, this Festival of
+            Maharashtra celebrates this special bond on one additional day. Celebrated on the fifth and final day of Diwali,
+            it is a special celebration of the all the revelry and rivalry of this everlasting bond. </item>
+        <item>Celebrated in honour of the great Hindu god Vishnu, Ashadhi Ekadashi is the
+            culmination of the great Pandharpur chi Vari (Journey to Pandharpur). Pandharpur
+            is a town in Maharashtra on the banks of the river Chandrabhaga and is considered
+            to be the abode of Vitthal, a local form of the mighty God. Almost
+            a month in advance, millions of people begin a pilgrimage to visit the holy
+            city on foot.</item>
+        <item>Like Lohri in North India, the harvest festival of Pola is celebrated by farmers
+            all over Maharashtra. It falls on Pithori Amavasya, the new moon day of the holy
+            month of Shravan. On this day bullocks, which are an integral part of the
+            agriculture – basically the backbone of it – are worshiped.</item>
+        <item>Chattrapati Shivaji Maharaj was the greatest ruler of Maharashtra. He was known
+            for his courage and intelligence. He laid the foundation of a Hindu empire which
+            lasted for over two centuries before the British took over. All Maharashtrians
+            have great reverence
+            and regard for him and his birthday is celebrated all across the state as Shivaji Jayanti.</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/india"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/background" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingBottom="20dp"
+            android:gravity="bottom">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/aclonica"
+                android:gravity="center"
+                android:text="@string/india"
+                android:textColor="@color/colorWhite"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                style="@style/linearLayout_style"
+                android:background="#ADFBED77">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/alegreya_sc"
+                    android:gravity="center"
+                    android:text="@string/title_one"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="30sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/linearLayout_style"
+                android:background="@color/transparentRed">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="@font/alegreya_sc"
+                    android:gravity="center"
+                    android:text="@string/title_two"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="30sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/linearLayout_style"
+                android:layout_marginBottom="30dp"
+                android:background="@color/transparentBlue">
+
+                <TextView
+                    android:id="@+id/explorer_textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:drawableEnd="@drawable/ic_arrow_forward_black_24dp"
+                    android:fontFamily="@font/alegreya_sc"
+                    android:gravity="center"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp"
+                    android:text="@string/title_three"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="30sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

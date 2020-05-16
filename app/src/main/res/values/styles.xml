@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="linearLayout_style">
+         <item name="android:gravity">center</item>
+         <item name="android:layout_width">match_parent</item>
+         <item name="android:layout_height">80dp</item>
+         <item name="android:layout_marginTop">@dimen/layoutMargin_top</item>
+         <item name="android:layout_marginBottom">@dimen/layoutMargin_top</item>
+         <item name="android:layout_marginRight">@dimen/layoutMargin_side</item>
+         <item name="android:layout_marginLeft">@dimen/layoutMargin_side</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+</resources>
